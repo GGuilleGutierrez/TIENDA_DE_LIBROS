@@ -1,6 +1,6 @@
 const readF = require("./read");
 const writeF = require("./writeJson");
-
+//bdd = base de datos
 module.exports = (Title, Author, Genre, Year, Cost, Price) => {
     let bdd = readF();
     let ID = bdd.length + 1;
