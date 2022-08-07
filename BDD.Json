@@ -1,0 +1,29 @@
+[
+  {
+    "ID": 1,
+    "Title": "Sombra y hueso",
+    "Author": "Leigh Bardugo",
+    "Genre": "Fantasía",
+    "Year": "2017",
+    "Cost": "1200",
+    "Price": "2900"
+  },
+  {
+    "ID": 2,
+    "Title": "Otelo",
+    "Author": "Wiliam Shakespeare",
+    "Genre": "Romance",
+    "Year": "1999",
+    "Cost": "25",
+    "Price": "300"
+  },
+  {
+    "ID": 3,
+    "Title": "El Principito",
+    "Author": "Antoine de Saint-Exupery",
+    "Genre": "Fantasía",
+    "Year": "1943",
+    "Cost": "1100",
+    "Price": "2000"
+  }
+]
